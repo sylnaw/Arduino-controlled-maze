@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/ThreadInicjalizer.unity
     guid: 43cde5c3c631fbc4681d9f460f3d3fe3
   - enabled: 1
-    path: Assets/Scenes/Labirynth.unity
+    path: Assets/Scenes/Labyrinth.unity
     guid: b3e272e88ac5eb44abe33aeddfec82f5
   m_configObjects: {}
